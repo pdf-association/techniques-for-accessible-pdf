@@ -1,0 +1,1 @@
+This example demonstrates a failure condition in which the order of [content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#c) - in this example the position of a sidebar - does not match the [author’s intent](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#authors-intent).

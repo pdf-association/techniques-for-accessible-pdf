@@ -1,0 +1,1 @@
+The objective of this technique is to show how to tag [text content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#text-content). In this example, each character is created in a separate container. All of the containers that semantically belong together are contained in one **P** tag.

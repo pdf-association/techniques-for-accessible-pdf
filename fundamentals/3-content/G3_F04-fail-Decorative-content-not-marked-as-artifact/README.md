@@ -1,0 +1,1 @@
+This describes a failure condition in which decorative [content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#c) is not marked as an [artifact](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#artifact).

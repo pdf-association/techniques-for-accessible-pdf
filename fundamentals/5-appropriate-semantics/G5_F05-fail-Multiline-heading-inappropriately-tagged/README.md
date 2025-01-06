@@ -1,0 +1,1 @@
+This describes a failure condition in which each line of the two-line heading is marked with a single heading [structure element](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#structure-element). See [Fundamental 5: Appropriate Semantics](https://pdfa.org/understanding-pdf-accessibility-techniques#fundamental-5).

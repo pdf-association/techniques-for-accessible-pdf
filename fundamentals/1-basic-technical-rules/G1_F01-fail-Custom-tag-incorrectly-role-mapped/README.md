@@ -1,0 +1,1 @@
+This example demonstrates the failure condition that applies if you are not following the basic technical rules. In this example the custom tag "FirstParagraph" has no [role mapping](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#role-mapping). This is not allowed according to the specification.

@@ -1,0 +1,1 @@
+The objective of this technique is to show correct [Unicode](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#unicode) mapping. In this case, the [Unicode](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#unicode) character of the "Rightwards Black Circled White Arrow" (U+2B8A) is used. This matches the visual appearance.

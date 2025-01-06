@@ -1,0 +1,30 @@
+---
+UA Technique Finder: UA1_Tpdf-G2_02
+Title: Text content correctly tagged (one container per word)
+Pass / Fail: Pass
+PDF/UA Parts:
+- PDF/UA-1
+Use cases:
+- 'Fundamental 2: Text'
+- Text
+Matterhorn Protocol:
+- 08-001
+- 10-001
+- 11-001
+- 11-002
+- 11-003
+- 11-006
+WCAG 2.2 Success Criteria:
+
+- 1.3.1
+- 1.4.5
+- 3.1.1
+- 3.1.2
+Acrobat Accessibility Checked: "2024-12-17T06:53:00-0600"
+Acrobat Preflight UA Checked: "2024-12-17T06:53:00-0600"
+Arlington Checked: "2024-12-17T04:45:00-0600"
+CommonLook PDF Checked: "2024-12-20T10:08:00-0600"
+PAC 2021 Checked: "2024-12-17T06:53:00-0600"
+PAC 2024 Checked: "2024-12-17T06:53:00-0600"
+veraPDF UA Checked: "2024-12-17T04:45:00-0600"
+...

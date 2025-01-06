@@ -1,0 +1,1 @@
+The objective of this technique is to show how to tag [text content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#text-content) so that it is machine-readable. In this example the complete [text content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#text-content) is nested in one container.

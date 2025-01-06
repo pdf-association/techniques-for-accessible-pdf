@@ -1,0 +1,3 @@
+The objective of this technique is to show how to order [content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#c) within a tag to match the [author’s intent](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#authors-intent).
+
+Often, when text or a page is rotated, the [content order](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#content-order) within the tags is incorrect. In this example, the [content order](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#content-order) within the paragraphs is correct. Even though English is written left to right, the lines of text within the paragraphs are ordered from the right side of the page to the left.

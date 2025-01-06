@@ -1,0 +1,25 @@
+---
+UA Technique Finder: UA1_Tpdf-G5_F05
+Title: Multiline heading inappropriately tagged
+Pass / Fail: Fail
+PDF/UA Parts:
+- PDF/UA-1
+Use cases:
+- 'Fundamental 5: Appropriate Semantics'
+Matterhorn Protocol:
+- 01-006
+- 09-003
+- 14-001
+- 14-002
+- 14-003
+WCAG 2.2 Success Criteria:
+
+- 1.3.1
+Acrobat Accessibility Checked: "2024-12-17T06:53:00-0600"
+Acrobat Preflight UA Checked: "2024-12-17T06:53:00-0600"
+Arlington Checked: "2024-12-17T04:45:00-0600"
+CommonLook PDF Checked: "2024-12-20T10:08:00-0600"
+PAC 2021 Checked: "2024-12-17T06:53:00-0600"
+PAC 2024 Checked: "2024-12-17T06:53:00-0600"
+veraPDF UA Checked: "2024-12-17T04:45:00-0600"
+...

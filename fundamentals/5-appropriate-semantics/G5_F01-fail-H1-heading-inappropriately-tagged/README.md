@@ -1,0 +1,1 @@
+This describes a failure condition in which the [semantically appropriate](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#semantically-appropriate) markup is not used. In this document, the text "This is a **H1**" should be tagged as **H1** instead of **P**.

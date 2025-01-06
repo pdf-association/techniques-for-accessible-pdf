@@ -1,0 +1,1 @@
+The objective of this technique is to show how to mark decorative [content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#c) as an [artifact](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#artifact).

@@ -1,0 +1,1 @@
+The objective of this technique is to show how to define the [content order](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#content-order) for sidebars in relation to the main flow of [content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#c).

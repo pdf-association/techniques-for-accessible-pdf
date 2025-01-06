@@ -1,0 +1,1 @@
+This example demonstrates the failure condition that applies when unicode mapping for a character is incorrect. In this case, the unicode character of the "Greater-than-sign" (U<ins>003E) is used instead of the unicode character of the "Rightwards Black Circled White Arrow" (U</ins>2B8A).

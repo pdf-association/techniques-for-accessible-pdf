@@ -1,0 +1,1 @@
+This example demonstrates a failure condition in which the document's [tab order](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#tab-order) for [annotations](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#annotation), such as form fields, links or notes, is not set to "S," so as to follow the order of the document's Structure. 

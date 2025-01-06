@@ -1,0 +1,2 @@
+The objective of this technique is to show how to mark semantically contiguous [content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#c) that is visually separated.
+In this example, a single **P** tag should encompass the entire paragraph.

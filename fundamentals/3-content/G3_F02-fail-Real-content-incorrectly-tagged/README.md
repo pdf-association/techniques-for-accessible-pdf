@@ -1,0 +1,1 @@
+This describes a failure condition in which [real content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#real-content) is not tagged but instead is marked incorrectly as an [artifact](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#artifact).

@@ -1,0 +1,22 @@
+---
+UA Technique Finder: UA1_Tpdf-G4_04
+Title: Sidebar correctly located in the document’s content order
+Pass / Fail: Pass
+PDF/UA Parts:
+- PDF/UA-1
+Use cases:
+- 'Fundamental 4: Logical Content Order'
+Matterhorn Protocol:
+- 09-001
+WCAG 2.2 PDF Technique: PDF3
+WCAG 2.2 Success Criteria:
+
+- 1.3.2
+Acrobat Accessibility Checked: "2024-12-17T06:53:00-0600"
+Acrobat Preflight UA Checked: "2024-12-17T06:53:00-0600"
+Arlington Checked: "2024-12-17T04:45:00-0600"
+CommonLook PDF Checked: "2024-12-20T10:08:00-0600"
+PAC 2021 Checked: "2024-12-17T06:53:00-0600"
+PAC 2024 Checked: "2024-12-17T06:53:00-0600"
+veraPDF UA Checked: "2024-12-17T04:45:00-0600"
+...

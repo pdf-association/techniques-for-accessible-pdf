@@ -1,0 +1,3 @@
+This example demonstrates the failure condition that applies for [non-text content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#non-text-content) that is intended to be consumed as text, but appropriate [ActualText](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#actualtext) is missing. In this example, graphics were used to place the word "paragraph" on the page, instead of text objects. In this case the related [non-text content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#non-text-content) is incorrectly tagged as a **Figure** with [alt text](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#alt-text).
+
+ 

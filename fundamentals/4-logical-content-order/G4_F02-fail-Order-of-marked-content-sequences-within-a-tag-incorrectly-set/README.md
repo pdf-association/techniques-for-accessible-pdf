@@ -1,0 +1,3 @@
+This example demonstrates a failure condition in which the order of [content](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#c) within a tag does not match the [author’s intent](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#authors-intent).
+
+Often, when text or a page is rotated, the [content order](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#content-order) within the tags is incorrect, like in this example. Even though English is written left to right, the lines of text within the paragraphs should be ordered from the right side of the page to the left.

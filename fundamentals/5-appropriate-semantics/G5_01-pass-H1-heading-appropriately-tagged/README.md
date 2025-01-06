@@ -1,0 +1,1 @@
+The objective of this technique is to show how to tag [semantically appropriate](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#semantically-appropriate). In this case a heading level 1 is tagged as **H1**.
