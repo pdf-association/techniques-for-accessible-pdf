@@ -1,0 +1,92 @@
+---
+Acrobat Accessibility Checked:
+  type: Timestamp
+  description: |
+    When Acrobat's Accessibility Checker was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+Acrobat Preflight UA Checked:
+  type: Timestamp
+  description: |
+    When Acrobat's Preflight UA Checker was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+Arlington Checked:
+  type: Timestamp
+  description: |
+    When the Arlington Model-based validator was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+BFO PDF/UA Checked:
+  type: Timestamp
+  description: |
+    When the BFO PDF/UA checker was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+CommonLook PDF Checked:
+  type: Timestamp
+  description: |
+    When CommonLook was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+Discussion Number:
+  type: Integer
+  description: |
+    The number of the public GitHub discussion for this technique.
+LWG Tool Checked:
+  type: Timestamp
+  description: |
+    When the PDF/UA LWG's special tool was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+Matterhorn Protocol:
+  type: List zero or many
+  description: |
+    Index ID from Matterhorn Protocol v1.1. Valid values are keys in matterhorn.yaml.
+PAC 1 Checked:
+  type: Timestamp
+  description: |
+    When PDF Accessibility Checker version 1 was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+PAC 2 Checked:
+  type: Timestamp
+  description: |
+    When PDF Accessibility Checker version 2 was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+PAC 2021 Checked:
+  type: Timestamp
+  description: |
+    When PDF Accessibility Checker 2021 was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+PAC 2024 Checked:
+  type: Timestamp
+  description: |
+    When PDF Accessibility Checker 2024 was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+PAC 3 Checked:
+  type: Timestamp
+  description: |
+    When PDF Accessibility Checker version 3 was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+PDF/UA Parts:
+  type: List at least one
+  values:
+  - PDF/UA-1
+Pass / Fail:
+  type: Select exactly one
+  values:
+  - Pass
+  - Fail
+Title:
+  type: Single line of text
+  description: |
+    Title of the example. This will be incorporated into the
+    filename of the example PDF.
+Use cases:
+  type: List at least one
+  description: |
+    Ordered list of use cases that the example applies to. The first item in the list is "primary" use case. The remaining use cases should be listed alphabetically.
+  values:
+  - 'Fundamental 1: Basic Technical Rules'
+  - 'Fundamental 2: Text'
+  - 'Fundamental 3: Content'
+  - 'Fundamental 4: Logical Content Order'
+  - 'Fundamental 5: Appropriate Semantics'
+  - Table
+  - Text
+WCAG 2.2 PDF Technique:
+  type: Select zero or one
+  description: |
+    The WCAG 2.2 PDF technique that this example is intended to replace. At the time this is documented, WCAG had techniques numbered from PDF1 to PDF23.
+WCAG 2.2 Success Criteria:
+  type: List zero or many
+  description: |
+    Valid values are keys in wcag_sc.yaml.
+veraPDF UA Checked:
+  type: Timestamp
+  description: |
+    When veraPDF was used to validate a file. All PASS examples should pass validation, unless the validator is in error. All FAIL examples should pass all checks unrelated to the failure that the example demonstrates, unless the validator is in error.
+...

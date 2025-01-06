@@ -1,0 +1,22 @@
+# yamllint configuration for Techniques for accessible PDF.
+#
+# Contributors: William Kilian, TargetStream Technologies
+#
+# Copyright 2024 PDF Association, Inc. https://www.pdfa.org
+
+extends: default
+
+rules:
+    # unnecessary for LWG work
+    document-start: disable
+
+    # allow aligning colons in long maps that have variable-length keys
+    colons:
+        max-spaces-before: -1
+        max-spaces-after: -1
+
+    # override "allow-non-*" settings
+    line-length:
+        max: 80
+        allow-non-breakable-words: true
+        allow-non-breakable-inline-mappings: true

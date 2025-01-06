@@ -1,0 +1,6 @@
+# URL Prefix for WCAG PDF techniques pages.
+#
+# Contributors: William Kilian, TargetStream Technologies
+#
+# Copyright 2024 PDF Association, Inc. https://www.pdfa.org
+wcag_pdf_technique_url_prefix : https://www.w3.org/WAI/WCAG22/Techniques/pdf/
