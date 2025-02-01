@@ -12,7 +12,7 @@ This repo contains the PDF Association's Techniques for Accessible PDF as [publi
 &nbsp;&nbsp;&nbsp;
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJL_M0VH2lm65gvGVarUTKQ?style=social)
 
-Get your [zero-cost copy of ISO 14289-1, ISO 14289-2, & ISO:TS 32005 now](https://pdfa.org/announcing-no-cost-access-to-pdfs-accessibility-standards/)!
+Get your [zero-cost copy of ISO 14289-1, ISO 14289-2, & ISO TS 32005 now](https://pdfa.org/announcing-no-cost-access-to-pdfs-accessibility-standards/)!
 
 ## Stats
 
