@@ -1,0 +1,1 @@
+This example demonstrates a failure condition in which a tag is used in a [semantically inappropriate](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#semantically-appropriate) manner. In this case, text that the [author does not intend](https://pdfa.org/glossary-of-accessibility-terminology-in-pdf/#Authors_intent) as a heading is nonetheless tagged as **H2**.

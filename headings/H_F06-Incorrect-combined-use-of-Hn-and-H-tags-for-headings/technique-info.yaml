@@ -1,0 +1,22 @@
+---
+UA Technique Finder: UA1_Tpdf-H_F06
+Title: Incorrect combined use of Hn and H tags for headings
+Pass / Fail: Fail
+PDF/UA Parts:
+- PDF/UA-1
+Use cases:
+- Headings
+Matterhorn Protocol:
+- 01-006
+- 14-001
+- 14-002
+- 14-007
+WCAG 2.2 Success Criteria:
+
+- 1.3.1
+- 2.4.6
+Acrobat Accessibility Checked: "2025-01-17T04:38:00-0600"
+Acrobat Preflight UA Checked: "2025-01-17T04:38:00-0600"
+Arlington Checked: "2025-01-14T00:00:00-0000"
+veraPDF UA Checked: "2025-01-14T00:00:00-0000"
+...

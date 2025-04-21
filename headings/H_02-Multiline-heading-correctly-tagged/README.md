@@ -1,0 +1,1 @@
+The objective of this technique is to show how to tag a heading that spans multiple lines. See [Fundamental 5: Appropriate Semantics](https://pdfa.org/understanding-pdf-accessibility-techniques#fundamental-5).

@@ -1,0 +1,1 @@
+This example demonstrates a failure condition in which each line of a two-line heading is individually marked with a heading tag. See [Fundamental 5: Appropriate Semantics](https://pdfa.org/understanding-pdf-accessibility-techniques#fundamental-5).

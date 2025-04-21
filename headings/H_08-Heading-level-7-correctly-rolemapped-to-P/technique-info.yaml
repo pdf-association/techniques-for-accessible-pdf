@@ -1,0 +1,17 @@
+---
+UA Technique Finder: UA1_Tpdf-H_08
+Title: Heading level 7 correctly rolemapped to P
+Pass / Fail: Pass
+PDF/UA Parts:
+- PDF/UA-1
+Use cases:
+- Headings
+Matterhorn Protocol:
+- 01-006
+- 02-001
+- 02-002
+- 14-001
+- 14-002
+- 14-003
+- 14-005
+...

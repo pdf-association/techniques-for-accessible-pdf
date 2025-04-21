@@ -75,6 +75,7 @@ Use cases:
   - 'Fundamental 3: Content'
   - 'Fundamental 4: Logical Content Order'
   - 'Fundamental 5: Appropriate Semantics'
+  - Headings
 WCAG 2.2 PDF Technique:
   type: Select zero or one
   description: |
