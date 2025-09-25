@@ -2,7 +2,7 @@
 
 This repo contains the PDF Association's Techniques for Accessible PDF as [published on pdfa.org](https://pdfa.org/techniques-for-accessible-pdf/). The contents of this repo are intended primarily for developers, whereas the same content is presented in a friendlier manner on pdfa.org. 
 
-Anyone can post an Issue in this repo as a public comment on the posted Techniques, or to suggest additional Techniques. All issues are reviewed by the PDF Association's [Accessibility Liaison Working Group](https://pdfa.org/community/pdf-accessibility-liaison-working-group/).
+Anyone can [post an Issue](https://github.com/pdf-association/techniques-for-accessible-pdf/issues/new) in this repo as a public comment on the posted Techniques, or to suggest additional Techniques. All issues are reviewed by the PDF Association's [Accessibility Liaison Working Group](https://pdfa.org/community/pdf-accessibility-liaison-working-group/).
 
 ![PDF support](https://img.shields.io/badge/PDF-1.7%2C2.0-blue)
 &nbsp;&nbsp;&nbsp;
