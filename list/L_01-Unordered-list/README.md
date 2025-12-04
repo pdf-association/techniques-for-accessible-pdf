@@ -1,0 +1,1 @@
+The objective of this technique is to show how to tag an unordered (bulleted) list, including selection of a semantically appropriate **[ListNumbering](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#listnumbering)** value. 

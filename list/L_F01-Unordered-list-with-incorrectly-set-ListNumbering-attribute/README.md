@@ -1,0 +1,1 @@
+This example demonstrates a failure condition that occurs when an unordered list (bulleted list), using solid circles for the list item labels, does not have the **[ListNumbering](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#listnumbering)** attribute set to either "None" or "Disc".

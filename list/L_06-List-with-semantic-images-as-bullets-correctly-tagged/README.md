@@ -1,0 +1,3 @@
+The objective of this technique is to show how to tag a list when graphical elements with a clear semantic role are used as labels for the list items.
+
+In this example, each **Lbl** tag contains a **Figure** tag which then contains the appropriate graphic. Each **Figure** tag includes an appropriate [Alt text](https://pdfa.org/glossary-of-accessibility-terminology-in-pdf/#alt-text), in this case "broccoli" or "tomato" as appropriate. Because the **[ListNumbering](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#listnumbering)** attribute is not required, it is not set, defaulting to a value of "None".

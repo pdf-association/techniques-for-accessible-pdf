@@ -1,0 +1,1 @@
+The objective of this technique is to show how to tag an ordered list (numbered list) and set the **[ListNumbering](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#listnumbering)** value correctly, in this case to "Decimal", because Arabic numbers are used to label each list item. 

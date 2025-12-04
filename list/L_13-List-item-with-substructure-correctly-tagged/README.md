@@ -1,0 +1,3 @@
+The objective of this technique is to show how to tag lists with at least one list item with [substructure](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#substructure). 
+
+The complete substructure [content](https://pdfa.org/glossary-of-accessibility-terminology-in-pdf/#c) should be included in the **LBody** of the related **LI** [structure element](https://www.pdfa.org/glossary-of-accessibility-terminology-in-pdf/#structure-element). In this example, because two of the list items contain additional paragraphs of text, each paragraph is tagged in its own **P** tag, within the related **LBody** structure element. 

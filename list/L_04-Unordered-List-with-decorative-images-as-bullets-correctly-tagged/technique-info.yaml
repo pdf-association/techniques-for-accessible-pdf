@@ -1,0 +1,20 @@
+---
+UA Technique Finder: UA1_Tpdf-L_04
+Title: Unordered List with decorative images as bullets correctly tagged
+Pass / Fail: Pass
+PDF/UA Parts:
+- PDF/UA-1
+Use cases:
+- List
+Matterhorn Protocol:
+- 01-006
+- 13-001
+- 16-003
+WCAG 2.2 Success Criteria:
+
+- 1.3.1
+Acrobat Accessibility Checked: "2025-01-17T04:38:00-0600"
+Acrobat Preflight UA Checked: "2025-01-17T04:38:00-0600"
+Arlington Checked: "2025-01-14T00:00:00-0000"
+veraPDF UA Checked: "2025-01-14T00:00:00-0000"
+...
