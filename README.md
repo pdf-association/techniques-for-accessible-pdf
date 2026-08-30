@@ -9,10 +9,6 @@ Anyone can [post an Issue](https://github.com/pdf-association/techniques-for-acc
 ![PDF subsets](https://img.shields.io/badge/PDF%20subsets-PDF%2FUA--1%2CPDF%2FUA--2-blue)
 &nbsp;&nbsp;&nbsp;
 ![LinkedIn](https://img.shields.io/static/v1?style=social&label=LinkedIn&logo=linkedin&message=PDF-Association)
-&nbsp;&nbsp;&nbsp;
-![Twitter Follow](https://img.shields.io/twitter/follow/PDFAssociation?style=social)
-&nbsp;&nbsp;&nbsp;
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJL_M0VH2lm65gvGVarUTKQ?style=social)
 
 Thanks to the PDF Association's sponsors, get your [zero-cost copy of ISO 14289-1, ISO 14289-2, & ISO TS 32005 now](https://pdfa.org/announcing-no-cost-access-to-pdfs-accessibility-standards/)!
 
